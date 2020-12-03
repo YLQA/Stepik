@@ -1,2 +1,1 @@
-# Stepik
-The new me
+Updated file README)
